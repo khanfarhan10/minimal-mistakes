@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Research"
+    url: /research/
   - title: "Projects"
     url: /projects/
   - title: "Posts"
@@ -8,8 +10,6 @@ main:
     url: /courses/
   - title: "Achievements"
     url: /achievements/
-  - title: "Research"
-    url: /research/
   - title: "Gallery"
     url: /gallery/
   - title: "About"
