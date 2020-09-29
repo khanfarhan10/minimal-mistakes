@@ -4,10 +4,15 @@ permalink: /research/
 title: "Research"
 author_profile: true
 header:
-  image: "/assets/images/proj.jpg"
+  overlay_image: /assets/images/proj.jpg
+  overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/JWiMShWiF14)"
+  #actions:
+  #  - label: "View Documentation"
+  #    url: "https://unsplash.com"
 ---
 
-Welcome to my projects page!
+Welcome to my research page!
 
 {% include group-by-array collection=site.projects field="tags" %}
 
