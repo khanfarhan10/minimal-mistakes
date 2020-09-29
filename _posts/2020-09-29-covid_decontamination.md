@@ -317,15 +317,15 @@ destruction<sup>[5]</sup>. Some of the methods are:
 
 -   Rounik Roy, Mob.: 9609003695,\
     Mail ID:
-    [[rounikroy72\@gmail.com]](mailto:rounikroy72@gmail.com)
+    [[rounikroy72@gmail.com]](mailto:rounikroy72@gmail.com)
 
 -   Namrata Das, Mob.: 9679166333,\
     Mail ID:
-    [[namratads.blg\@gmail.com]](mailto:namratads.blg@gmail.com)
+    [[namratads.blg@gmail.com]](mailto:namratads.blg@gmail.com)
 
 -   Farhan Hai Khan, Mob.: 746402755,\
     Mail ID:
-    [[njrfarhandasilva10\@gmail.com]](mailto:njrfarhandasilva10@gmail.com)
+    [[njrfarhandasilva10@gmail.com]](mailto:njrfarhandasilva10@gmail.com)
 
 ## Review and References
 
