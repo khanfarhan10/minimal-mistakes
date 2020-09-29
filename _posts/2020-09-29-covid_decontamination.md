@@ -126,7 +126,7 @@ mutually perpendicular Electrical and Magnetic Fields.
 
 *Image Source*: StatNews<sup>[1]</sup>
 
-![ISPG1](./Covid_Decontamination/media/image2.png)
+![ISPG1](assets/images/Covid_Decontamination/media/image2.png)
 *Image Source*: Coronavirus envelope protein: Current knowledge<sup>[2]</sup>
 
 **Fig. 2 Visual Interpretation of the coronavirus Protein Chain Polymers
