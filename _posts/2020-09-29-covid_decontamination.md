@@ -332,14 +332,14 @@ destruction<sup>[5]</sup>. Some of the methods are:
 \[1\] Observed Coronavirus Particles under a Microscope, Highly
 Magnified, Statnews.
 
-[[statnews.com/wp-content/uploads/2020/02/Coronavirus-CDC-645x645.jpg]{.underline}](https://www.statnews.com/wp-content/uploads/2020/02/Coronavirus-CDC-645x645.jpg)
+[[statnews.com/wp-content/uploads/2020/02/Coronavirus-CDC-645x645.jpg]](https://www.statnews.com/wp-content/uploads/2020/02/Coronavirus-CDC-645x645.jpg)
 
 \[2\] Schoeman, D., Fielding, B.C. Coronavirus envelope protein: current
 knowledge. *Virol J* 16, 69 (2019).
-[[doi.org/10.1186/s12985-019-1182-0]{.underline}](https://doi.org/10.1186/s12985-019-1182-0)
+[[doi.org/10.1186/s12985-019-1182-0]](https://doi.org/10.1186/s12985-019-1182-0)
 
 \[3\] Bernoulli's Equation, A. Shrikoti, IITR.
-[[quora.com/What-is-the-statement-of-Bernoullis-equation]{.underline}](https://www.quora.com/What-is-the-statement-of-Bernoullis-equation)
+[[quora.com/What-is-the-statement-of-Bernoullis-equation]](https://www.quora.com/What-is-the-statement-of-Bernoullis-equation)
 
 \[4\] Mungan, Carl & Lasinski, Andrew. (2008). Motion of an electric
 dipole in a static electromagnetic field. Latin-American Journal of
