@@ -120,7 +120,7 @@ filtering systems and replace them with electrical systems that
 eliminate viruses by the principle of charge induction with the help of
 mutually perpendicular Electrical and Magnetic Fields.
 
-![](./Covid_Decontamination/media/image1.jpeg)
+![](/assets/images/Covid_Decontamination/media/image1.jpeg)
 
 **Fig.1 Visualization of the novel coronavirus on a microscope**
 
@@ -147,7 +147,7 @@ particles at this portion of the system.
 
 Mathematically,
 
-![](./Covid_Decontamination/media/image3.png)
+![](/assets/images/Covid_Decontamination/media/image3.png)
 
 where,
 
@@ -163,7 +163,7 @@ h=Elevation of the Filtration Unit
 
 k=Some Arbitrary Constant
 
-![main-qimg-2af6d68b76f3b3c37e4d501b86d10eb2](./Covid_Decontamination/media/image4.png)
+![main-qimg-2af6d68b76f3b3c37e4d501b86d10eb2](/assets/images/Covid_Decontamination/media/image4.png)
 
 *Image Source:* Quora<sup>[3]</sup>
 
@@ -174,11 +174,11 @@ is done by using a pressure valve.
 
 This equation can be further simplified as,
 
-![](./Covid_Decontamination/media/image5.png)
+![](/assets/images/Covid_Decontamination/media/image5.png)
 
-![](./Covid_Decontamination/media/image5.png)
+![](/assets/images/Covid_Decontamination/media/image5.png)
 
-![](./Covid_Decontamination/media/image6.png)
+![](/assets/images/Covid_Decontamination/media/image6.png)
 
 (Assuming elevation is same, h1=h2)
 
@@ -195,7 +195,7 @@ Now, the virus particles which basically consist of protein chain
 polymers and are dipoles can be exposed to mutually perpendicular
 electrical and magnetic fields.
 
-![ISPG3](./Covid_Decontamination/media/image7.png)
+![ISPG3](/assets/images/Covid_Decontamination/media/image7.png)
 
 *Image Source:* Motion of an electric dipole in a static electromagnetic
 field<sup>[4]</sup>
@@ -208,21 +208,21 @@ entering the device with a translation velocity at the +x direction.
 
 This dipole when experiencing mutually perpendicular Electric and
 Magnetic fields, begins to rotate due to an induced Torque (
-![](./Covid_Decontamination/media/image8.wmf)), given by the mathematical equation,
+![](/assets/images/Covid_Decontamination/media/image8.wmf)), given by the mathematical equation,
 
-![](./Covid_Decontamination/media/image9.wmf)
+![](/assets/images/Covid_Decontamination/media/image9.wmf)
 
 where,
 
-![](./Covid_Decontamination/media/image8.wmf)=Net Torque acting on the dipole P
+![](/assets/images/Covid_Decontamination/media/image8.wmf)=Net Torque acting on the dipole P
 
-![](./Covid_Decontamination/media/image10.wmf)= Dipole Moment of the dipole P
+![](/assets/images/Covid_Decontamination/media/image10.wmf)= Dipole Moment of the dipole P
 
-![](./Covid_Decontamination/media/image11.wmf)= Applied Electric Field to the Dipole P
+![](/assets/images/Covid_Decontamination/media/image11.wmf)= Applied Electric Field to the Dipole P
 
-![](./Covid_Decontamination/media/image12.wmf)= Applied Magnetic Field to the Dipole P &
+![](/assets/images/Covid_Decontamination/media/image12.wmf)= Applied Magnetic Field to the Dipole P &
 
-![](./Covid_Decontamination/media/image13.wmf)= Translational Velocity of the Dipole P
+![](/assets/images/Covid_Decontamination/media/image13.wmf)= Translational Velocity of the Dipole P
 
 Hence, a suitable static electromagnetic field is generated across the
 passing air through the Filtration Unit which screens the coronavirus
@@ -279,7 +279,7 @@ schematic diagram for the setup used in collaboration with the existing
 HVAC Systems. In the figure below in place of the normal air filter, we
 will use our proposed air filter with the default air filtration system.
 
-![](./Covid_Decontamination/media/image14.jpeg)
+![](/assets/images/Covid_Decontamination/media/image14.jpeg)
 
 **Fig 5. Schematic Diagram of the Proposed System:** The proposed filter
 will not change the working dynamics of the existing classical systems;
