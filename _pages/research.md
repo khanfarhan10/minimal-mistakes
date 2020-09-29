@@ -14,13 +14,13 @@ header:
 
 Welcome to my research page!
 
-{% include group-by-array collection=site.projects field="tags" %}
+{% include group-by-array collection=site.research field="tags" %}
 
 {% for tag in group_names %}
-{% assign projects = group_items[forloop.index0] %}
+{% assign research = group_items[forloop.index0] %}
 
   <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
-  {% for post in projects %}
+  {% for post in research %}
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
