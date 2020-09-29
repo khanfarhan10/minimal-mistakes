@@ -8,8 +8,8 @@ main:
     url: /courses/
   - title: "Achievements"
     url: /achievements/
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
   - title: "Gallery"
     url: /gallery/
   - title: "About"
