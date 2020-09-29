@@ -9,6 +9,9 @@ categories:
 
 tags:
   - COVID-19
+  - HVACR
+  - Coronavirus
+  - ElectroMagnetic Field Theory
 
 last_modified_at: 2020-09-29T08:06:00-05:00
 
@@ -27,14 +30,14 @@ use_math: true
 
 Detailed Methodology & Project Description for our Proposed Research Article.
 
-## Project Objectives:
+## Project Objectives
 
 -   To design an Electrical System for COVID-19 Decontamination for
     Industrial & Domestic purposes.
 
 -   To enhance indoor air quality to nullify any virus agents.
 
-## Project Deliverables:
+## Project Deliverables
 
 -   Fabricated Prototype of Installable Components in HVAC Systems such
     as Air Purifiers, Air Conditioners that act as a virus filter.
@@ -50,7 +53,7 @@ Detailed Methodology & Project Description for our Proposed Research Article.
 -   Project Report with detailed diagrams and execution photographs of
     the suggested prototype.
     
-## Abstract :
+## Abstract
 
 This project aims at modifying existing HVAC Systems to install
 filtration components for COVID-19 disinfection by the theory of
@@ -62,12 +65,12 @@ some charged dipolar proteins.
 Apart from inventing new systems, this research will attempt
 modifications to already existing systems in an inexpensive manner.
 
-## Prerequisite Courses :
+## Prerequisite Courses
 
 PW-EE 781 - Project stage-I, ME 604A - Refrigeration and Air
 Conditioning, PC-EE 303- Electromagnetic Field Theory.
 
-## Need for this Project:
+## Need for this Project
 
 • The COVID-19 pandemic is growing exponentially and as people are
 spending more time indoors, proper methods of filter designs are
@@ -99,14 +102,14 @@ to the system and can be used to enhance indoor air quality.
 into different air purification technologies and can help prevent viral
 infections in the future, should the need/requirement arise.
 
-## Status of the work done:
+## Status of the work done
 
 Attempts to eliminate the novel coronavirus have been made but none of
 them proposes complete rejection of the virus with 100% efficiency. Our
 research proposes an idea that is fully resistant to any viral infection
 in the air particles and is aimed at Indoor Air Quality Improvement.
 
-## Detailed Methodology:
+## Detailed Methodology
 
 Every single virus has some dipolar charges associated with its protein
 fibers and this can also be used against the virus itself with the help
@@ -134,7 +137,7 @@ consists of negatively charged amino acids, the transmembrane domain
 positively charged Amino Acids. Amino acid properties are indicated:
 hydrophobic (red), hydrophilic (blue), polar, charged (asterisks).
 
-## Overview and Operating Principle Involved:
+## Overview and Operating Principle Involved
 
 In the proposed system, intake air is sent to a filtration unit where
 the air is divided into a streamlined beam-like flow with the help of a
@@ -237,7 +240,7 @@ After extraction, these virus agents are sent to a collector, where the
 virus is stored till it becomes inactive or it is destroyed using some
 chemicals. This process is explained in detail below.
 
-## Components Required:
+## Components Required
 
 • Air Purification System -- Basic Initial System that purifies air
 using HEPA Filters. This can be any preliminary system such as Air
@@ -261,7 +264,7 @@ Supply.
 • Output Pressure Valve- To control and modify the output velocity of
 the air to be fed into the classical HEPA system.
 
-## Integration into existing HVAC Systems:
+## Integration into existing HVAC Systems
 
 This project aims at modifying existing HVAC Systems to install
 filtration components for COVID-19 disinfection by the theory of
@@ -283,7 +286,7 @@ will not change the working dynamics of the existing classical systems;
 instead it will attempt to be installed in these systems with suitable
 modifications.
 
-## Future Scope and Research:
+## Future Scope and Research
 
 The major disadvantage of the methodology mentioned in the project is
 that the coronavirus cells are aggregated in the collector and remain
@@ -310,7 +313,7 @@ destruction<sup>[5]</sup>. Some of the methods are:
 2.  Using 70% Alcohol Solution (Isopropanol) to dissolve virus fat
     layers and damage virus protein structures.
 
-## Authors with Contact Details :
+## Authors with Contact Details 
 
 -   Rounik Roy, Mob.: 9609003695,\
     Mail ID:
@@ -324,7 +327,7 @@ destruction<sup>[5]</sup>. Some of the methods are:
     Mail ID:
     [[njrfarhandasilva10\@gmail.com]](mailto:njrfarhandasilva10@gmail.com)
 
-## Review and References:
+## Review and References
 
 \[1\] Observed Coronavirus Particles under a Microscope, Highly
 Magnified, Statnews.
@@ -341,23 +344,23 @@ knowledge. *Virol J* 16, 69 (2019).
 \[4\] Mungan, Carl & Lasinski, Andrew. (2008). Motion of an electric
 dipole in a static electromagnetic field. Latin-American Journal of
 Physics Education. 2. 192-194.
-[[researchgate.net/publication/26568536\_Motion\_of\_an\_electric\_dipole\_in\_a\_static\_electromagnetic\_field]{.underline}](https://www.researchgate.net/publication/26568536_Motion_of_an_electric_dipole_in_a_static_electromagnetic_field)
+[[researchgate.net/publication/26568536\_Motion\_of\_an\_electric\_dipole\_in\_a\_static\_electromagnetic\_field]](https://www.researchgate.net/publication/26568536_Motion_of_an_electric_dipole_in_a_static_electromagnetic_field)
 
 \[5\] Four Ways to Destroy Coronavirus, Compound Interest.
-[[compoundchem.com/2020/03/31/destroy-coronavirus/]{.underline}](https://www.compoundchem.com/2020/03/31/destroy-coronavirus/)
+[[compoundchem.com/2020/03/31/destroy-coronavirus/]](https://www.compoundchem.com/2020/03/31/destroy-coronavirus/)
 
 \[6\] Frabboni, S., Gazzadi, G. C., and Pozzi, G., Young's double-slit
 interference experiment with electrons Am. J. Phys. 75, 1053--1055
 (2007).
-[[doi.org/10.1119/1.2757621]{.underline}](https://doi.org/10.1119/1.2757621)
+[[doi.org/10.1119/1.2757621]](https://doi.org/10.1119/1.2757621)
 
 *Miscellaneous*
 
 \[6\] Air Pollution Control Technology EPA CICA Fact Sheet, Fabric
 Filter: HEPA and ULPA Types, Particulate Matter Size and AED.
-[[https://www3.epa.gov/ttncatc1/cica/files/ff-hepa.pdf]{.underline}](https://www3.epa.gov/ttncatc1/cica/files/ff-hepa.pdf)
+[[https://www3.epa.gov/ttncatc1/cica/files/ff-hepa.pdf]](https://www3.epa.gov/ttncatc1/cica/files/ff-hepa.pdf)
 
-## National Status Review :
+## National Status Review
 
 1.  Dipole Orientation in Molecular Proteins: Insights.
 
@@ -434,3 +437,7 @@ control* vol. 39,7 (2011): e30-8. doi.org/10.1016/j.ajic.2010.10.036
 and Control of the Microbial Community Affiliated with Copper or
 Aluminum Heat Exchangers of HVAC Systems. *Curr Microbiol* 65, 141--149
 (2012). doi.org/10.1007/s00284-012-0137-0
+
+# Complete Article
+
+You can view or <a href="the/name/of/your/file.x" download>download this article</a>
