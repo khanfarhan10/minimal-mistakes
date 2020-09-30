@@ -1,5 +1,7 @@
 ---
 title: "About Me"
+toc: true
+toc_sticky: true
 permalink: /aboutme/
 date: 2018-01-28
 tags: [about, author, designer]
