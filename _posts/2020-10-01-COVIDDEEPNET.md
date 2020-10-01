@@ -47,16 +47,6 @@ This paper aims to identify/predict covid positive individuals by using lung X-R
 
 <br>
 
-# Table of content:
-1. [Why Technical Domains are Relavent for COVID19](#WhyTechnicalareRelaventforCOVID19)
-2. [Different Imaging Features in Lungs X-Ray of a COVID Positive Individual](#DifferentImagingFeaturesinXRayofaCOVIDPositiveIndividual)
-3. [The problems we solved through the paper](#Theproblemswesolvedthroughthepaper)
-4. [Dataset](#Dataset)
-5. [Model Architecture](#ModelArchitecture)
-6. [Data Pre-processing with U-Net](#DataPre-processingwithU-Net)
-7. [Fancy model  "Xception with depthwise separable Convolution 2D"](#Fancymodel"XceptionwithdepthwiseseparableConvolution2D")
-
-
 ## Why Technical Domains are Relavent for COVID19
 Sience the outbreak was first identified in Wuhan, China, in December 2019 there are total 32.3M cases worldwide and 984k death cases are reported with morality rate of --%(<--if anybody know that then pl fill this up-->). And there are tons of cases of community spreead meaning that people are getting sick without having any specific contact with a covid positive patients or having traveled to out break areas and for the cuntries with high population like india,brazil,pakistan etc. it's dificult to stop speading. In this context health care workers need more diagnostic tools to invasticate cases of potential covid 19 that are both sensitive andd specific. And to solve this problem different technical domains comes to rescue.
  
