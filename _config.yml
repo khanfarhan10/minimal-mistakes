@@ -96,7 +96,7 @@ author:
   avatar: "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "**Data** is my **canvas** and **Machine Learning** is my **painting.**"
   location: "Kolkata, India."
-  email:
+  email: khanfarhanpro@gmail.com
   links:
     - label: "Gmail"
       icon: "fab fa-google"
@@ -119,9 +119,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://facebook.com/khanfarhanh"
-    - label: "Email"
-      icon: "fa fa-envelope"
-      url: "mailto:khanfarhanpro@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/itsmetheswagger"
@@ -135,13 +132,9 @@ author:
       icon: "fab fa-discord"
       url: "https://discord.gg/2xzxCUY"
 
-      
-      
 #    - label: "Email"
 #      icon: "fa fa-envelope"
 #      url: "mailto:khanfarhanpro@gmail.com"
-# https://discord.gg/2xzxCUY
-# https://stackoverflow.com/users/12464709/farhan-khan
 
 # Site Footer
 footer:
