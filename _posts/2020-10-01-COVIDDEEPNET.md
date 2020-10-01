@@ -30,13 +30,16 @@ use_math: true
 ---
 
 ```python
-
 from AI import Covid_Predictions
-
 ```
 
-# What's inside COVID-DeepNet :
-This blog is a review and overview of the paper, **"COVID-DeepNet: Deep Convolutional Neural Network Architecture Designed for Early Prognosis of COVID-19 using Post-Anterior View of Chest X-Rays"**.Little about the paper, this paper aims to identify/predict covid positive individuals by using lungs X-Ray images. There are many paper whic have been published on this topic but this paper successfully solves all the problems which makes it different than other papers. The whole thing started as a project but different insightfull findings lead us to make a fulfledged paper and publish it(<--I know we thought of publishing from the beginning but to add some spice i wrote that-->). Now, If you are a computer vision enthusiast or excited to know how AI and Machine Learning can help to over come the covid situation or want to quickly look through all the findings that this paper acchives in general then you should consider reading the blog. Now, without a further a do let's hop on to the review.
+# What's inside this COVID-DeepNet article :
+
+This blog is a detailed , yet lucid overview of the paper, **"COVID-DeepNet: Deep Convolutional Neural Network Architecture Designed for Early Prognosis of COVID-19 using Post-Anterior View of Chest X-Rays"**. 
+
+# About the paper:
+
+This paper aims to identify/predict covid positive individuals by using lung X-Ray images. There are many papers which have been published on this topic but this paper successfully solves all the problems which makes it different than other papers. The whole thing started as a project but different insightfull findings lead us to make a fulfledged paper and publish it(<--I know we thought of publishing from the beginning but to add some spice i wrote that-->). Now, If you are a computer vision enthusiast or excited to know how AI and Machine Learning can help to over come the covid situation or want to quickly look through all the findings that this paper acchives in general then you should consider reading the blog. Now, without a further a do let's hop on to the review.
 
 <br>
 
