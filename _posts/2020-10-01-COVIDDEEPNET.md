@@ -33,7 +33,7 @@ use_math: true
 from AI import Covid_Predictions
 ```
 
-# What's inside this COVID-DeepNet article :
+# What's inside this COVID-DeepNet :
 
 This blog is a detailed , yet lucid overview of the paper, **"COVID-DeepNet: Deep Convolutional Neural Network Architecture Designed for Early Prognosis of COVID-19 using Post-Anterior View of Chest X-Rays"**. 
 
