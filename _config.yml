@@ -131,7 +131,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://instagram.com/i.am.the.swagger"
-     - label: "Discord"
+    - label: "Discord"
       icon: "fab fa-discord"
       url: "https://discord.gg/2xzxCUY"
 
