@@ -5,6 +5,7 @@ title: "My Courses"
 author_profile: true
 header:
   image: "/assets/images/ai3.jpg"
+classes: wide
 ---
 <!--classes: wide-->
 Welcome to my Courses page!
