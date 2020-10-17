@@ -1,13 +1,13 @@
 # main links
 main:
+  - title: "Certifications"
+    url: /courses/
   - title: "Research"
     url: /research/
   - title: "Projects"
     url: /projects/
   - title: "Posts"
     url: /posts/
-  - title: "Courses"
-    url: /courses/
   - title: "Achievements"
     url: /achievements/
   - title: "Gallery"

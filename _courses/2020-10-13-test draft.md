@@ -188,9 +188,6 @@ k_{n+1} = n^2 + k_n^2 - k_{n-1}
 [mmistakes github file](https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_posts/2010-09-09-post-gallery.md)
 
 [mmistakes layouts](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#splash-page-layout)
-<<<<<<< Updated upstream
-=======
 
 
 Trying galleries and and feature rows.
->>>>>>> Stashed changes
