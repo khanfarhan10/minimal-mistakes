@@ -41,7 +41,7 @@ gallery:
     alt: "placeholder image 7"
     title: "Image 7 title caption"
   - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/personal/classics/darj1.jpg
+    image_path: /assets/images/personal/classics/darj1.JPG
     alt: "placeholder image 8"
     title: "Image 8 title caption"
   - url: /assets/images/unsplash-gallery-image-3.jpg
@@ -49,7 +49,7 @@ gallery:
     alt: "placeholder image 9"
     title: "Image 9 title caption"
   - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/personal/classics/darj3.jpg
+    image_path: /assets/images/personal/classics/darj3.JPG
     alt: "placeholder image 10"
     title: "Image 10 title caption"
   - url: /assets/images/unsplash-gallery-image-2.jpg
