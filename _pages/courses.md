@@ -1,21 +1,18 @@
 ---
-layout: posts
+layout: archive
 permalink: /courses/
 title: "My Courses"
 author_profile: true
 header:
   image: "/assets/images/ai3.jpg"
 ---
-
+<!--classes: wide-->
 Welcome to my Courses page!
 
-{% include group-by-array collection=site.courses field="tags" %}
-
-{% for tag in group_names %}
-{% assign courses = group_items[forloop.index0] %}
-
-  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
-  {% for post in courses %}
-    {% include archive-single.html %}
+<div class="grid__wrapper">
+  {% assign collection = 'courses' %}
+  {% assign posts = site[collection] | reverse %}
+  {% for post in posts %}
+    {% include archive-single.html type="grid" %}
   {% endfor %}
-{% endfor %}
+</div>
