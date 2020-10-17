@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: posts
 permalink: /research/
 title: "Research"
 author_profile: true
@@ -14,10 +14,18 @@ header:
 
 Welcome to my research page!
 
-<div class="grid__wrapper">
-  {% assign collection = 'research' %}
-  {% assign posts = site[collection] | reverse %}
-  {% for post in posts %}
-    {% include archive-single.html type="grid" %}
+
+{% include group-by-array collection=site.research field="tags" %}
+
+{% for tag in group_names %}
+{% assign research = group_items[forloop.index0] %}
+
+  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
+  {% for post in research %}
+    {% include archive-single.html %}
   {% endfor %}
-</div>
+{% endfor %}
+
+
+
+

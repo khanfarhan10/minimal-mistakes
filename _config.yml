@@ -28,7 +28,7 @@ teaser: "/assets/images/TeamFKlogo.png" # path of fallback teaser image, e.g. "/
 logo: "/assets/images/site-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute: 200
+words_per_minute: 250
 comments:
   provider: # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -297,12 +297,40 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  research:
+    output: true
+    permalink: /:categories/:title/
+  projects:
+    output: true
+    permalink: /:categories/:title/
+  courses:
+    output: true
+    permalink: /:categories/:title/
+  achievements:
+    output: true
+    permalink: /:categories/:title/
+  gallery:
+    output: true
+    permalink: /:categories/:title/
+
 # Defaults
 defaults:
   # _posts
   - scope:
       path: ""
       type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  # _research
+  - scope:
+      path: ""
+      type: research
     values:
       layout: single
       author_profile: true
@@ -335,14 +363,16 @@ defaults:
   # _courses
   - scope:
       path: "_courses"
-      type: posts
+      type: courses
     values:
       layout: single
+      show_date: false
       author_profile: true
       read_time: false
       comments: false
       share: true
       related: false
+      mathjax: true
   # _achievements
   - scope:
       path: "_achievements"
