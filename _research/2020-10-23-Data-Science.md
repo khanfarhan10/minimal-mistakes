@@ -35,47 +35,9 @@ from math import Dimensionality_Reduction
 
 This blog is a detailed , yet lucid overview of the book chapter , **"High Dimensionality Dataset Reduction Methodologies in Applied Machine Learning"** from the **"Taylor and Francis Book Publication (Routledge)"** for the book **"Data Science and Data Analytics: Opportunities and Challenges 2020"**.
 
-# About the paper:
-
-This paper aims to identify/predict covid positive individuals by using lung X-Ray images. There are many papers which have been published on this topic but this paper successfully solves all the problems which makes it different than other papers. The whole thing started as a project but different insightfull findings lead us to make a fulfledged paper and publish it(<--I know we thought of publishing from the beginning but to add some spice i wrote that-->). Now, If you are a computer vision enthusiast or excited to know how AI and Machine Learning can help to over come the covid situation or want to quickly look through all the findings that this paper acchives in general then you should consider reading the blog. Now, without a further a do let's hop on to the review.
-
-<br>
-
-<center><img src="https://i.imgur.com/K3qMwMU.jpg" width="800px"></center>
-
-<br>
-
+# About the chapter:
 ## Why Technical Domains are Relavent for COVID19
-
-Sience the outbreak was first identified in Wuhan, China, in December 2019 there are total 32.3M cases worldwide and 984k death cases are reported with morality rate of --%(<--if anybody know that then pl fill this up-->). And there are tons of cases of community spreead meaning that people are getting sick without having any specific contact with a covid positive patients or having traveled to out break areas and for the cuntries with high population like india,brazil,pakistan etc. it's dificult to stop speading. In this context health care workers need more diagnostic tools to invasticate cases of potential covid 19 that are both sensitive andd specific. And to solve this problem different technical domains comes to rescue.
-
 ## Different Imaging Features in Lungs X-Ray of a COVID Positive Individual
-
-You might say hey, why we are using Different imaging techniques such as x-ray or CT scan for indentify the potentials where we have RT-PCR(Reverse Transcription Polymerase Chain Reaction)?
-
-So, reader, yes you are right with it RT-PCR is more sensitive and effective way to indentify that a indivisual is covid positive or but flaws of RT-PCR is that it can take more that 24 hours for testing, but on the other hand CT is very prompt, and in this way the the initial treatement will be very early and spreading will be less. But there are also some problems with CT,like-
-
-- 1st reflection of being covid affected if very mild and hard to find out,
-- 2nd the instrument that has been used for generating x-rays and CT scan is not portable which can make the hospital more crowded whci might cause spread of the bacteria,
-- 3rd in rural areas radiologists are not too much skilled and it may be possible that they dont has enough training to detect a covid patient just by looking at their lungs x-ray.
-
-So, to solve these problems Deep Learning and Computer Vision comes into the picture.
-Now this might answer your question, what do you say?
-
-But, I would like take a deep dive and understand why it is difficult for humans to understand and identify covid positive indivisual just by looking at the x-ray and what are the imaging features of covid.So, hold tight your microfine glass cause we are going to analyze some X-Ray images.
-
-Now, the major feature which can be obsereved sometime is call ground glass opacities aka GGOs. Now, what's really GGO? Basically, when some parts of the lungs in the x-ray looks kind of blurry and gray in color as shown in the fig[x] instead of looking black with white colored blood vessels then those parts are called as Ground Glass Opacity.It majorly happens because of fluid accumulation at the bottom of the alveoli as you can see in the fig[1].Except that there are **crazy paving** and **consolidation**, to explore these topics more you can reffer to this [video](https://www.youtube.com/watch?v=g9jEk_gi__g).
-
-<br>
-<center><img src="https://i.imgur.com/AQuNNEu.png" height = "400px" width="650px"></center>
-<center> Fig-1, Fig-2(source - <a href="https://radiologyassistant.nl/chest/covid-19/covid19-imaging-findings">radiologyassistant.nl)</a></center>
-
-And as time passes by the changes starts to look more robost, reffer fig[2]. These findings some times can be intimidating for a less experianced radiologist to understand.Now, as in deep learning doesn't see a image like a human does(its matrix of numbers for a machine) and we can apply thousands of filters inorder to extract the features that makes the task easier, But wait its not that easy as i described there is more into it.
-
-<br>
-
-Now, lets go more technical and understand the Deep Learning part of it.
-
 ## The problems we solved through the paper
 
 It is good to know what are the problems we solved through this paper and how we are solving them except that why it stands out in compare with other papers there are 6 problems which are as follows-
