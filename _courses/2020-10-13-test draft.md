@@ -189,5 +189,47 @@ k_{n+1} = n^2 + k_n^2 - k_{n-1}
 
 [mmistakes layouts](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#splash-page-layout)
 
-
 Trying galleries and and feature rows.
+
+## Notices
+
+Call attention to a block of text.
+
+| Notice Type | Class              |
+| ----------- | ------------------ |
+| Default     | `.notice`          |
+| Primary     | `.notice--primary` |
+| Info        | `.notice--info`    |
+| Warning     | `.notice--warning` |
+| Success     | `.notice--success` |
+| Danger      | `.notice--danger`  |
+
+**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice}` class.
+{: .notice}
+
+**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--primary}` class.
+{: .notice--primary}
+
+**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--info}` class.
+{: .notice--info}
+
+**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--warning}` class.
+{: .notice--warning}
+
+**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--success}` class.
+{: .notice--success}
+
+**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--danger}` class.
+{: .notice--danger}
+
+{% capture notice-text %}
+You can also add the `.notice` class to a `<div>` element.
+
+- Bullet point 1
+- Bullet point 2
+  {% endcapture %}
+
+<div class="notice--info">
+  <h4 class="no_toc">Notice Headline:</h4>
+  {{ notice-text | markdownify }}
+</div>
