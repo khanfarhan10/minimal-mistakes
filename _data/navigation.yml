@@ -16,7 +16,16 @@ main:
     url: /aboutme/
 # sidebar navigation for DSDA
 DSDA_docs:
-  - title: "View Code on Github"
+  - title: "Code on Github"
     url: "https://github.com/khanfarhan10/DIMENSIONALITY_REDUCTION"
-  - title: "View Documentation"
+  - title: "Documentation"
     url: "https://github.com/khanfarhan10/DIMENSIONALITY_REDUCTION"
+  - title: "Know the Authors"
+    url: "https://github.com/khanfarhan10/DIMENSIONALITY_REDUCTION"
+    children:
+      - title: "Farhan Hai Khan"
+        url: /docs/posts/
+      - title: "Tannistha Pal"
+        url: /docs/pages/
+
+
