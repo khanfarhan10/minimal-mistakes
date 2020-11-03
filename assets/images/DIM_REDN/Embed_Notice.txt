@@ -1,0 +1,10 @@
+{% capture notice-text6 %}
+
+For detailed visualization and hyperparameter tuning (perplexity, number of iterations) for t-SNE visit [Distill](https://distill.pub/2016/misread-tsne/)!
+
+{% endcapture %}
+
+<div class="notice--success">
+  <h4 class="no_toc">t-SNE Detailed Information :</h4>
+  {{ notice-text6 | markdownify }}
+</div>

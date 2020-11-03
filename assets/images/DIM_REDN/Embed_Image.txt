@@ -1,0 +1,4 @@
+![t-SNE Plot for MNIST Handwritten Digit Classification.jpg](/assets/images/DIM_REDN/t-SNE Plot for MNIST Handwritten Digit Classification.jpg)
+
+
+![Number of Neigbors Chosen vs Mean Training and Testing Accuracy Score.png](/assets/images/DIM_REDN/Number of Neigbors Chosen vs Mean Training and Testing Accuracy Score.png)
