@@ -25,6 +25,7 @@ header:
   #    url: "https://unsplash.com"
 
 use_math: true
+mathjax: true
 ---
 
 # Design and Analysis of Electrically Charged Systems for COVID-19 Decontamination
@@ -148,21 +149,23 @@ particles at this portion of the system.
 
 Mathematically,
 
-![](/assets/images/Covid_Decontamination/media/image3.png)
+$$
+P+\frac{1}{2} \rho v^{2}+\rho g h=k
+$$
 
 where,
 
-P=Pressure of Air passing through the Filtration Unit
+$$P=$$Pressure of Air passing through the Filtration Unit
 
-_ρ_=Density of the Air passing through the Filtration Unit
+$$\rho=$$Density of the Air passing through the Filtration Unit
 
-v=Velocity of the Air passing through the Filtration Unit
+$$\mathrm{v}=$$Velocity of the Air passing through the Filtration Unit
 
-g=Acceleration due to gravity
+$$\mathrm{g}=$$Acceleration due to gravity
 
-h=Elevation of the Filtration Unit
+$$\mathrm{h}=$$Elevation of the Filtration Unit
 
-k=Some Arbitrary Constant
+$$\mathrm{k}=$$Some Arbitrary Constant
 
 ![main-qimg-2af6d68b76f3b3c37e4d501b86d10eb2](/assets/images/Covid_Decontamination/media/image4.png)
 
@@ -175,18 +178,17 @@ is done by using a pressure valve.
 
 This equation can be further simplified as,
 
-![](/assets/images/Covid_Decontamination/media/image5.png)
-
-![](/assets/images/Covid_Decontamination/media/image5.png)
-
-![](/assets/images/Covid_Decontamination/media/image6.png)
+$$
+\begin{aligned}
+P_{1}+\frac{1}{2} \rho v_{1}^{2}+\rho g h_{1} &=P_{2}+\frac{1}{2} \rho v_{2}^{2}+\rho g h_{2} \\
+P_{1}+\frac{1}{2} \rho v_{1}^{2}+\rho g h_{1} &=P_{2}+\frac{1}{2} \rho v_{2}^{2}+\rho g h_{2} \\
+P_{1}+\frac{1}{2} \rho v_{1}^{2} &=P_{2}+\frac{1}{2} \rho v_{2}^{2}
+\end{aligned}
+$$
 
 (Assuming elevation is same, h1=h2)
 
-where,
-
-1=Initial Intake before Entering the Filtration Unit
-
+1=Initial Intake before Entering the Filtration Unit  
 2=Intermediate Air Passing through the Filtration Unit
 
 From the above equation, the value of Output Velocity (v~2~) can be
@@ -208,22 +210,22 @@ molecule with an electric dipole moment oriented along its axis is shown
 entering the device with a translation velocity at the +x direction.
 
 This dipole when experiencing mutually perpendicular Electric and
-Magnetic fields, begins to rotate due to an induced Torque (
-![](/assets/images/Covid_Decontamination/media/image8.wmf)), given by the mathematical equation,
+Magnetic fields, begins to rotate due to an induced Torque ( $$\vec{\tau}_{P}$$ ), given by the mathematical equation,
 
-![](/assets/images/Covid_Decontamination/media/image9.wmf)
-
-where,
-
-![](/assets/images/Covid_Decontamination/media/image8.wmf)=Net Torque acting on the dipole P
-
-![](/assets/images/Covid_Decontamination/media/image10.wmf)= Dipole Moment of the dipole P
-
-![](/assets/images/Covid_Decontamination/media/image11.wmf)= Applied Electric Field to the Dipole P
-
-![](/assets/images/Covid_Decontamination/media/image12.wmf)= Applied Magnetic Field to the Dipole P &
-
-![](/assets/images/Covid_Decontamination/media/image13.wmf)= Translational Velocity of the Dipole P
+$$
+\begin{aligned}
+&\vec{\tau}_{P}=\vec{p} \times(\vec{E}+\vec{v} \times \vec{B})\\
+&\begin{array}{l}
+\vec{\tau}_{P}=\text { Net Torque acting on the dipole } \mathrm{P} \\
+\vec{p}=\text { Dipole Moment of the dipole } \mathrm{P}
+\end{array}\\
+&\begin{array}{l}
+\vec{E}=\text { Applied Electric Field to the Dipole } \mathrm{P} \\
+\vec{B}=\text { Applied Magnetic Field to the Dipole } \mathrm{P} \ \\
+=\text { Translational Velocity of the Dipole } \mathrm{P}
+\end{array}
+\end{aligned}
+$$
 
 Hence, a suitable static electromagnetic field is generated across the
 passing air through the Filtration Unit which screens the coronavirus
