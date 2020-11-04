@@ -222,7 +222,7 @@ $$
 &\begin{array}{l}
 \vec{E}=\text { Applied Electric Field to the Dipole } \mathrm{P} \\
 \vec{B}=\text { Applied Magnetic Field to the Dipole } \mathrm{P} \ \\
-=\text { Translational Velocity of the Dipole } \mathrm{P}
+\vec{v}=\text { Translational Velocity of the Dipole } \mathrm{P}
 \end{array}
 \end{aligned}
 $$
