@@ -31,16 +31,16 @@ gallery_conference:
 
 
 gallery_darjeeling:
-  - url: /assets/images/personal/classics/darj1.jpg
-    image_path: /assets/images/personal/classics/darj1.jpg
+  - url: /assets/images/personal/classics/darj1.JPG
+    image_path: /assets/images/personal/classics/darj1.JPG
     alt: "Tiger Hills"
     title: "Tiger Hills"
   - url: /assets/images/personal/classics/darj2.jpeg
     image_path: /assets/images/personal/classics/darj2.jpeg
     alt: "Tiger Hills"
     title: "Tiger Hills"
-  - url: /assets/images/personal/classics/darj3.jpg
-    image_path: /assets/images/personal/classics/darj3.jpg
+  - url: /assets/images/personal/classics/darj3.JPG
+    image_path: /assets/images/personal/classics/darj3.JPG
     alt: "Tiger Hills"
     title: "Tiger Hills"
 
