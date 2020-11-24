@@ -1,4 +1,74 @@
 ---
+title: "Splash Page"
+layout: splash
+permalink: /splash-page/
+date: 2016-03-23T11:48:41-04:00
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  actions:
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+feature_row:
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+feature_row2:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}
+
+
+
+---
 title: "Test draft"
 author_profile: true
 toc: true
@@ -15,179 +85,3 @@ og_image: "/assets/images/proj.jpg"
 use_math: true
 mathjax: true
 ---
-
-# H1 Heading
-
-## H2 Heading
-
-### H3 Heading
-
----
-
-Here's some basic text.
-
-And here's some _italics_
-
-Here's some **bold** text.
-
-What about a [link](https://github.com/dataoptimal)?
-
-Here's a bulleted list:
-
-- First item
-
-* Second item
-
-- Third item
-
-Here's a numbered list:
-
-1. First
-2. Second
-3. Third
-
-Python code block:
-
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Here's some inline code `x+y`.
-
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/perceptron/linsep.jpg" alt="linearly separable data">
-
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/perceptron/linsep.jpg)
-
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
-
-{% include figure class="centered" url="/assets/images/proj.jpg" image_path="/assets/images/perceptron/percept.jpg" alt="A two year old walking" %}
-
-[here's a link!](http://www.today.com/parents/unborn-babies-are-hearing-you-loud-clear-8C11005474)
-
-**Feedback**: Did you enjoy reading or think it can be improved? Don't forget to leave your thoughts in the comments section below! If you liked this article, please share it with your friends, and read a few more!
-{: .notice--success}
-
-# How to render math equations on your Minimal Mistakes
-
-### Katerina Bosko, PhD
-
-[view solution](https://www.cross-validated.com/How-to-render-math-on-Minimal-Mistakes/)
-
-You need [MathJax](https://www.mathjax.org) if you want to render mathematical equations on your Minimal Mistakes website.
-
-I first learned about it from [the blog post by Peter Willis](http://www.pwills.com/posts/2017/12/20/website.html) (thanks, Peter!) However, I couldn't enable MathJax even after following his instructions. So here's what I did.
-
-### 1.
-
-Add this snippet at the end of the `scripts.html` which is in the `_includes` folder:
-
-```html
-{% if page.mathjax %}
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script
-  id="MathJax-script"
-  defer
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
-></script>
-{% endif %}
-```
-
-The [MathJax documentation](https://www.mathjax.org/#gettingstarted) says that with this snippet you won't need to change anything with each new version of MathJax.
-
-### 2.
-
-Enable MathJax in `_config.yml` by adding `mathjax: true` to the page defaults
-
-```yml
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      mathjax: true
-```
-
-<i class="far fa-sticky-note"></i> **Note:** If you are using Docker, don't forget to rebuild your container after making changes to `_config.yml`.
-{: .notice--info}
-{: .text-justify}
-
-```
-docker build -t minimal-mistakes .
-```
-
-## Playing with Maths
-
-Basically that's it. Try rendering \\(y_0\\) using `\\(` and `\\)` delimeters for inline equations.
-
-Use `\\[` and `\\]` to display equations like this one:
-
-\\[ f(a) = \frac{1}{2\pi i} \oint_\gamma \frac{f(z)}{z-a} dz \\]
-
-LAtex
-
-```latex
-\\[ f(a) = \frac{1}{2\pi i} \oint_\gamma \frac{f(z)}{z-a} dz \\]
-```
-
-TeX
-
-```tex
-\\[ f(a) = \frac{1}{2\pi i} \oint_\gamma \frac{f(z)}{z-a} dz \\]
-```
-
-$$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
-
-TeX/LaTeX
-
-```tex
-$$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
-```
-
-k*{n+1} = n^2 + k_n^2 - k*{n-1}
-
-TeX/LaTeX
-
-```tex
-k_{n+1} = n^2 + k_n^2 - k_{n-1}
-```
-
-<i class="far fa-sticky-note"></i> **Note:** If things don't work, check if the MathJax script is added to the page using Developer tools.
-{: .notice--info}
-{: .text-justify}
-
-# Great docs
-
-[mmistakes](https://mmistakes.github.io/minimal-mistakes/docs/helpers/)
-
-[mmistakes github file](https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_posts/2010-09-09-post-gallery.md)
-
-[mmistakes layouts](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#splash-page-layout)
-
-
-Trying galleries and and feature rows.
