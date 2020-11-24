@@ -31,16 +31,16 @@ gallery_conference:
 
 
 gallery_darjeeling:
-  - url: /assets/images/personal/classics/darj1.JPG
-    image_path: /assets/images/personal/classics/darj1.JPG
+  - url: /assets/images/personal/classics/darj1.jpg
+    image_path: /assets/images/personal/classics/darj1.jpg
     alt: "Tiger Hills"
     title: "Tiger Hills"
   - url: /assets/images/personal/classics/darj2.jpeg
     image_path: /assets/images/personal/classics/darj2.jpeg
     alt: "Tiger Hills"
     title: "Tiger Hills"
-  - url: /assets/images/personal/classics/darj3.JPG
-    image_path: /assets/images/personal/classics/darj3.JPG
+  - url: /assets/images/personal/classics/darj3.jpg
+    image_path: /assets/images/personal/classics/darj3.jpg
     alt: "Tiger Hills"
     title: "Tiger Hills"
 
@@ -69,21 +69,21 @@ gallery_potrait:
     title: "Vananchal Hazaribagh"
 
 feature_row_uniformed:
-  - image_path: /assets/images/ecopark.JPG
+  - image_path: /assets/images/ecopark.jpg
     alt: "Ecopark Sector V Kolkata"
     title: "International Conference on English Learning & Teaching Skills (ICELTS)"
     excerpt: "Designed to bring together scholars, researchers and students, ICELTS provides them with a platform to share their **research results** and ideas on the evolving **significance of English language** in today’s world. Organised this event along with colleagues and professors."
     url: "https://icelts.org/"
     btn_label: "Learn More"
     btn_class: "btn--danger"
-  - image_path: /assets/images/bio-photo.JPG
+  - image_path: /assets/images/bio-photo.jpg
     alt: "Eastern Zonal Cultural Centre Smart Maker's Festival Kolkata"
     title: "Smart Maker's Festival Kolkata"
     excerpt: "Volunteered in the gathering of curious **Tech Geeks** who enjoy learning and who love sharing what they can do."
     url: "https://kolkata.makerfaire.com/"
     btn_label: "Learn More"
     btn_class: "btn--success"
-  - image_path: /assets/images/speech.JPG
+  - image_path: /assets/images/speech.jpg
     title: "Enginious - Institute of Engineers India Institute of Engineering & Management"
     excerpt: "Organising Member on the auspicious **Engineer's Day** to showcase skills and host competitions."
     url: "https://ieindia.org/"
@@ -114,7 +114,7 @@ feature_row1:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/personal/classics/darj3.JPG
+  - image_path: /assets/images/personal/classics/darj3.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
