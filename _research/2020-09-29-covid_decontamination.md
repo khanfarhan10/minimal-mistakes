@@ -1,6 +1,6 @@
 ---
 title: "Design and Analysis of Electrically Charged Systems for COVID-19 Decontamination"
-excerpt: "Detailed Methodology for our Proposed Research Article."
+excerpt: "Detailed Methodology for our Proposed Research Article on Ventilation Systems for Coronavirus Containment and Elimination."
 toc: true
 toc_sticky: true
 

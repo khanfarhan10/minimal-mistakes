@@ -16,9 +16,9 @@ tags:
 last_modified_at: 2020-10-23T08:06:00-05:00
 
 header:
-  teaser: "https://i.imgur.com/ElNnrdY.png"
-  overlay_image: https://i.imgur.com/ElNnrdY.png
-  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
+  teaser: /assets/images/DIM_REDN/DIM_RED_VIZ.png
+  overlay_image: /assets/images/DIM_REDN/DIM_RED_VIZ.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Image credit: [**Jackson Wu, Medium**](https://medium.com/@jwu2/improving-collaborative-filtering-with-dimensionality-reduction-a99d08585dab)"
   actions:
     - label: "View Code on Github"

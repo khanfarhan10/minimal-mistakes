@@ -19,7 +19,7 @@ tags:
 last_modified_at: 2020-10-01T08:06:00-05:00
 
 header:
-  teaser: "https://i.imgur.com/f2NBqnz.png"
+  teaser: "/assets/images/COVIDDEEPNET_Header.png"
   overlay_image: /assets/images/neuron.jpg
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
   caption: "Image credit: [**Medical News Today**](https://www.medicalnewstoday.com/articles/320289#carry_message)"
