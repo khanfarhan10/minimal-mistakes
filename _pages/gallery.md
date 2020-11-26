@@ -9,11 +9,17 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Art Credit: [**WordClouds**](https://www.wordclouds.com/)"
   actions:
-    - label: "View Instagram"
+    - label: "View Instagram Handle"
       url: "https://www.instagram.com/i.am.the.swagger/"
 og_image: "/assets/images/wordclouds/Positive_Heart.jpg"
 excerpt: "Welcome to my Gallery ! Here are some of the **amazing** places I've visited recently."
-description: "Welcome to my Gallery ! Here are some of the **amazing** places I've visited recently."
+tagline: |
+  Welcome to my Gallery !
+  <br>
+  Here are some of the **amazing** places I've visited recently.
+  <br>
+  **Darjeeling** | **Kolkata** | **Hazaribagh**
+description: "Welcome to my Gallery ! Here are some of the amazing places I've visited recently."
 
 gallery_conference:
   - url: /assets/images/personal/classics/conf1.jpeg
