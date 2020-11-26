@@ -4,7 +4,7 @@ permalink: /posts/
 title: "My Posts"
 author_profile: true
 header:
-  image: "/assets/images/ai2.jpg"
+  image: "/assets/images/ai2.png"
 ---
 
 Welcome to my posts page!
