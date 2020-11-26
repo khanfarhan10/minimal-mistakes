@@ -94,7 +94,7 @@ analytics:
 author:
   name: "Farhan Khan"
   avatar: "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "**Data** is my **canvas** and **Machine Learning** is my **painting.**"
+  bio: "**Data** is my **Canvas** and **Machine Learning** is my **Painting**."
   location: "Kolkata, India."
   email:
   links:
@@ -351,15 +351,15 @@ defaults:
       related: false
   # _projects
   - scope:
-      path: "_projects"
-      type: posts
+      path: ""
+      type: projects
     values:
       layout: single
       author_profile: true
       read_time: false
-      comments: false
+      comments: # true
       share: true
-      related: false
+      related: true
   # _courses
   - scope:
       path: "_courses"
