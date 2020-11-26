@@ -4,7 +4,7 @@ permalink: /courses/
 title: "My Courses"
 author_profile: true
 header:
-  image: "/assets/images/ai3.jpg"
+  image: "/assets/images/ai3.png"
 ---
 <!--classes: wide-->
 Welcome to my Courses page!
