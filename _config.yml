@@ -184,6 +184,7 @@ include:
   - _posts
   - _projects
   - _publications
+  - _woc
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -313,6 +314,9 @@ collections:
   gallery:
     output: true
     permalink: /:categories/:title/
+  woc:
+    output: true
+    permalink: /:categories/:title/
 
 # Defaults
 defaults:
@@ -406,3 +410,14 @@ defaults:
       comments: false
       share: true
       related: false
+  # _woc
+  - scope:
+      path: ""
+      type: woc
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: # true
+      share: true
+      related: true
