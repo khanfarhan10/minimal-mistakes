@@ -30,8 +30,9 @@ author: Your_Name
 use_math: true
 ---
 ## Introduction 
-Blah Blah Blah.
-### About Me
+Blah Blah Blah. 
+To get started you need to copy the starter code from [this directory](https://github.com/khanfarhan10/khanfarhan10.github.io/tree/master/_woc) and paste it in the modifying it to some awesome name for your blog links, then start filling it eventually!
+### About You
 I'm someone from somewhere.
 #### Education
 I studied here.
@@ -49,9 +50,8 @@ Love the Your Awesome Name Here? Change it to yours by modifying the _data/autho
 Add some text here. Feel free to use some **Markdown** _formatting_ or get going with some <code>HTML</code> <u>crazy</u> <strike>bags</strike> tags.
 
 ## Upcoming plans for the next week?
-
+Might use this for the other pages, put in something useful here.
 ## Did you get stuck anywhere?
-
-
+Probably mention the problems you faced while understanding the subject matter.
 ## Customize this page
 Show what you can do to the World!
