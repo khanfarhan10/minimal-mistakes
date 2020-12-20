@@ -53,8 +53,9 @@ I plan to further save this model and deploy it in heroku using flask creating w
 
 ## Did you get stuck anywhere?
 Someone said *Problems are not stop signs, they are guidelines* XD.
-There was a kind of conflict to why use TF IDF over bag of words and after extensive research I found this.
+**There was a kind of conflict to why use TF IDF over bag of words and after extensive research I found this.
         In large texts, some words may be repeated often but will carry very little meaningful information about the actual contents of the document. If we were to feed the count data directly to a classifier those very frequent terms would shadow the frequencies of rarer yet more interesting terms.Tf-idf allows us to weight terms based on how important they are to a document.
-Another problem was our classifier might misclassify things like 'not good', therefore I used groups of words instead of single words. This method is called n grams (bigrams for 2 words and so on). Here I take 1 and 2 words into consideration.After implementing this with my classifier ie Logistic Regression, I could achieve the accuracy of 96% and ROC_AUC score of 93% which itself shows how good the model worked.
+        
+** Another problem was our classifier might misclassify things like 'not good', therefore I used groups of words instead of single words. This method is called n grams (bigrams for 2 words and so on). Here I take 1 and 2 words into consideration.After implementing this with my classifier ie Logistic Regression, I could achieve the accuracy of 96% and ROC_AUC score of 93% which itself shows how good the model worked.
 I am glad atleast I could make attempts to overcome these challenges and conflicts.
 
