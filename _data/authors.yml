@@ -1,5 +1,4 @@
 # /_data/authors.yml
-
 Your_Name:
   name: "Your Awesome Name Here"
   bio: "Just Code Code Code? Nah, More Code."
@@ -14,3 +13,18 @@ Your_Name:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/someone"
+
+Ankita_Sareen:
+  name: "Ankita Sareen"
+  bio: "Wanderlust with attempts to code!"
+  avatar: "/assets/images/me.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ankitaankit1311@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ankita-sareen-a85689199/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Ankitasareen"
