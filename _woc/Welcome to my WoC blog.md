@@ -1,6 +1,7 @@
 ---
-title: "Text Sentiment Analysis Starter Blog"
-excerpt: "This is the inital blog post to derive a generalized interest for the project of Text Sentiment Analysis."
+title: "Wlking through my Winter of Code"
+excerpt: "This  blog post emphasises on the concepts I learnt during the phase 1 of the project of Text Sentiment Analysis.From learning various new tokenization techniques to learning modelling the classifiers,this covers it all.
+"
 toc: true
 toc_sticky: true
 toc_label: "Contents"
@@ -10,15 +11,16 @@ categories:
 
 tags:
   - Winter of Code
-  - Developers
+  - NIT Rourkela
   - Developer Student Clubs
-  - DSC NSEC
   - DSC IEM
+  - NLP
+  - AI
 
 
-og_image: /assets/images/WoC2020logo.jpg
+og_image: /assets/images/header.jpg
 header:
-  teaser: "/assets/images/WoC2020logo.jpg"
+  teaser: "/assets/images/header.jpg"
   overlay_image: /assets/images/WoC2020logo.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Image credit: [**Winter of Code**](https://winterofcode.com/) on [**Instagram**](https://www.instagram.com/winterofcode/)"
@@ -42,20 +44,21 @@ Thinking about my journey till now, the best part is how I was introduced to thi
 
 ## Welcome to my Winter of Code Blog!
 
-Hello Everyone, this is Ankita Sareen,a second year student pursuing B.Tech. in Electronics and Instrumentation Engineering at National Institute of Technology,Rourkela. I have been selected for WoC' 20 at sub-org DSC IEM . I will be working on the project TextSentimentAnalysis.  
+Finding something inorder to stick to working on laptop in this chilly winter is tough so to feel motivated,I grabbed this opportunity of applying to Woc.And **boom!** I have been selected for this at sub-org DSC IEM . I will be working on the project TextSentimentAnalysis, one of my favourite parts of AI and ML ie NLP and text classification.
 url: https://github.com/khanfarhan10/TextSentimentAnalysis
 
 ## What all did I implement this week?
-With the objective of improving the accuracy and the performance of the model,I worked on the identifying and enhancing various steps for the model. It involved from selecting a proper dataset to selecting a proper model with tuning. I tried all of vectorisation and tokenization techniques such as Bag of Words and Tf-Idf. For better performance of the model, I read and learnt about the n-gram modelling and then applied it which really worked good.
+With the objective of improving the accuracy and the performance of the model,I worked on the identifying and enhancing various steps for the model. It involved from selecting a *proper dataset* to selecting a proper model with tuning. I tried all of vectorisation and tokenization techniques such as **Bag of Words** and **Tf-Idf**. For better performance of the model, I read and learnt about the n-gram modelling and then applied it which really worked good.
 
 ## Upcoming plans for the next week?
-I plan to further save this model and deploy it in heroku using flask creating web app out of it. If possible, I will try to read more about improvising the model.
+I plan to further save this model and deploy it in *heroku* using *flask* creating web app out of it. If possible, I will try to read more about improvising the model.
+Presently,its analysing for positive,negative and neutral. Further, I will try to classify it under more of classes. Text Sentiment analysis is a never ending topic which motivates me more to have a indepth study about it.
 
 ## Did you get stuck anywhere?
 Someone said *Problems are not stop signs, they are guidelines* XD.
-**There was a kind of conflict to why use TF IDF over bag of words and after extensive research I found this.
+There was a kind of conflict to why use TF IDF over bag of words and after extensive research I found this.
         In large texts, some words may be repeated often but will carry very little meaningful information about the actual contents of the document. If we were to feed the count data directly to a classifier those very frequent terms would shadow the frequencies of rarer yet more interesting terms.Tf-idf allows us to weight terms based on how important they are to a document.
         
-** Another problem was our classifier might misclassify things like 'not good', therefore I used groups of words instead of single words. This method is called n grams (bigrams for 2 words and so on). Here I take 1 and 2 words into consideration.After implementing this with my classifier ie Logistic Regression, I could achieve the accuracy of 96% and ROC_AUC score of 93% which itself shows how good the model worked.
+Another problem was our classifier might misclassify things like 'not good', therefore I used groups of words instead of single words. This method is called *n grams* (bigrams for 2 words and so on). Here I take 1 and 2 words into consideration.After implementing this with my classifier ie Logistic Regression, I could achieve the accuracy of 96% and ROC_AUC score of 93% which itself shows how good the model worked.
 I am glad atleast I could make attempts to overcome these challenges and conflicts.
 
