@@ -1,5 +1,5 @@
 ---
-title: "Wlking through my Winter of Code"
+title: "Walking through my Winter of Code"
 excerpt: "This  blog post emphasises on the concepts I learnt during the phase 1 of the project of Text Sentiment Analysis.From learning various new tokenization techniques to learning modelling the classifiers,this covers it all.
 "
 toc: true
