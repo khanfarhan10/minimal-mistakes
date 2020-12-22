@@ -45,11 +45,11 @@ Thinking about my journey till now, the best part is how I was introduced to thi
 ## Welcome to my Winter of Code Blog!
 
 > Finding something inorder to stick to working on laptop in this chilly winter is tough so to feel motivated,I grabbed this opportunity of applying to Woc.And **boom!** I have been selected for this at sub-org DSC IEM . I will be working on the project TextSentimentAnalysis, one of my favourite parts of AI and ML ie NLP and text classification.
-url: https://github.com/khanfarhan10/TextSentimentAnalysis
+Url: [github.com/khanfarhan10/TextSentimentAnalysis](https://github.com/khanfarhan10/TextSentimentAnalysis).
 
 ## What all did I implement this week?
 > With the objective of improving the accuracy and the performance of the model,I worked on the identifying and enhancing various steps for the model. It involved from selecting a *proper dataset* to selecting a proper model with tuning. I tried all of vectorisation and tokenization techniques such as **Bag of Words** and **Tf-Idf**. For better performance of the model, I read and learnt about the n-gram modelling and then applied it which really worked good.
-You can have a look over basic [code]https://colab.research.google.com/drive/14ekbzUx0dcEkzMdwBAhbdf4fflz6lL4H?usp=sharing here.
+You can have a look over basic [code](https://colab.research.google.com/drive/14ekbzUx0dcEkzMdwBAhbdf4fflz6lL4H?usp=sharing) here.
 
 ## Upcoming plans for the next week?
 > I plan to further save this model and deploy it in *heroku* using *flask* creating web app out of it. If possible, I will try to read more about improvising the model.
