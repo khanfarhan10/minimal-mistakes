@@ -1,13 +1,13 @@
 # /_data/authors.yml
 
 Your_Name:
-  name: "Your Awesome Name Here"
-  bio: "Just Code Code Code? Nah, More Code."
-  avatar: "/assets/images/ecopark.jpg"
+  name: "Ankita Sareen"
+  bio: "Wanderlust with attempts to code!"
+  avatar: "/assets/images/me.jpeg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sampleperson@gmail.com"
+      url: "mailto:ankitaankit1311@gmail.com"
     - label: "website"
       icon: "fas fa-fw fa-link"
       url: "https://google.com"
