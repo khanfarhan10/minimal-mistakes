@@ -14,25 +14,18 @@ Your_Name:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/someon"
-      
 
 Dinesh_Kumar:
   name: "Dinesh Kumar"
   bio: "[**Enthusiastic**][**Learner**][*Musicophile**][**Acclimatizer**]"
   avatar: "/assets/images/avtar.jpg"
   links:
-     - label: "Email"
-       icon: "fas fa-fw fa-envelope-square"
-       url: "dineshrajput828282@gmail.com"
-     - label: "Linkedin"
-       icon: "fas fa-fw fa-linkedin-square"
-       url: "https://www.linkedin.com/in/dinesh-kumar-573852152/"
-     - label: "Twitter"
-       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/DineshR32682934"
-
-
-
-
-
-
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "dineshrajput828282@gmail.com"
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/dinesh-kumar-573852152/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/DineshR32682934"

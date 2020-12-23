@@ -21,10 +21,10 @@ tags:
 
 
 last_modified_at: 2020-12-20T08:06:00-05:00
-og_image: /assets/images/header.jpg
+og_image: /assets/images/nlp_header.jpg
 header:
-  teaser: "/assets/images/header.jpg"
-  overlay_image: /assets/images/header.jpg
+  teaser: "/assets/images/nlp_header.jpg"
+  overlay_image: /assets/images/nlp_header.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Image credit: [**NLP**][**TEXT SENTIMENT ANALYSIS**]"
   actions:
