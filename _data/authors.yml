@@ -16,7 +16,7 @@ Your_Name:
 
 Dinesh_Kumar:
   name: "Dinesh Kumar"
-  bio: "[**Enthusiastic**][**Learner**][*Musicophile**][**Acclimatizer**]"
+  bio: "**Enthusiastic** **Learner** **Musicophile** **Acclimatizer**"
   avatar: "/assets/images/avtar.jpg"
   links:
     - label: "Email"
@@ -43,4 +43,3 @@ Ankita_Sareen:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Ankitasareen"
-
