@@ -14,21 +14,6 @@ Your_Name:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/someone"
 
-Ankita_Sareen:
-  name: "Ankita Sareen"
-  bio: "Wanderlust with attempts to code!"
-  avatar: "/assets/images/me.jpeg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ankitaankit1311@gmail.com"
-    - label: "website"
-      icon: "fas fa-fw fa-link"
-      url: "https://google.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/someon"
-
 Dinesh_Kumar:
   name: "Dinesh Kumar"
   bio: "**Enthusiastic** **Learner** **Musicophile** **Acclimatizer**"
@@ -43,3 +28,33 @@ Dinesh_Kumar:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/DineshR32682934"
+
+Ankita_Sareen:
+  name: "Ankita Sareen"
+  bio: "Wanderlust with attempts to code!"
+  avatar: "/assets/images/me.jpeg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ankitaankit1311@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ankita-sareen-a85689199/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Ankitasareen"
+
+Sai Vamsi Alisetti:
+  name: "Sai Vamsi Alisetti"
+  bio: "Improvise Adapt Overcome"
+  avatar: "/assets/images/Vamsi.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:saivamsi.ds123@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sai-vamsi-4892a4197/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Vamsi995"

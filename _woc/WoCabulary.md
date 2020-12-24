@@ -1,6 +1,6 @@
 ---
 title: "WoCabulary - My Woc Blog"
-excerpt: "This is the inital blog post to derive a generalized interest for the project of Text Sentiment Analysis."
+excerpt: "This blog post shows my experience through the winter of code journey and the challenges I tackled."
 toc: true
 toc_sticky: true
 toc_label: "Contents"
@@ -14,15 +14,18 @@ tags:
   - Developer Student Clubs
   - DSC NSEC
   - DSC IEM
+  - NLP
+  - Transformers
+  - IIT Palakkad
 
 
 last_modified_at: 2020-12-20T08:06:00-05:00
-og_image: /assets/images/WoC2020logo.jpg
+og_image: /assets/images/overlay-vamsi.jpg
 header:
-  teaser: "/assets/images/WoC2020logo.jpg"
-  overlay_image: /assets/images/WoC2020logo.jpg
+  teaser: "/assets/images/overlay-vamsi.jpg"
+  overlay_image: /assets/images/overlay-vamsi.jpeg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Image credit: [**Winter of Code**](https://winterofcode.com/) on [**Instagram**](https://www.instagram.com/winterofcode/)"
+  caption: "Image credit: [**Winter of Code**](https://medium.com/@Ben_Obe/introduction-to-nlp-transformers-and-spacy-8ac9539f3bc1)"
   actions:
     - label: "View Repository on Github"
       url: "https://github.com/khanfarhan10/TextSentimentAnalysis"
