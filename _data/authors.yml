@@ -43,3 +43,18 @@ Ankita_Sareen:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Ankitasareen"
+
+Sai Vamsi Alisetti:
+  name: "Sai Vamsi Alisetti"
+  bio: "Improvise Adapt Overcome"
+  avatar: "/assets/images/Vamsi.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:saivamsi.ds123@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sai-vamsi-4892a4197/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Vamsi995"
