@@ -26,9 +26,13 @@ header:
   actions:
     - label: "View Repository on Github"
       url: "https://github.com/khanfarhan10/TextSentimentAnalysis"
+    - label: "View Repository on Github2"
+      url: "https://github.com/khanfarhan10/TextSentimentAnalysis"
 author: Your_Name
 use_math: true
 ---
+$$x^n + y^n = z^n$$
+
 ## Introduction 
 Blah Blah Blah. 
 To get started you need to copy the starter code from [this directory](https://github.com/khanfarhan10/khanfarhan10.github.io/tree/master/_woc) and paste it in the modifying it to some awesome name for your blog links, then start filling it eventually!
