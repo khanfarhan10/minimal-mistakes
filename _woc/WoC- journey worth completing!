@@ -1,0 +1,41 @@
+---
+title: "Journey till the end of WoC"
+excerpt: "This blog post is my journey of WoC ie this will take you through all of the things implemented and learnt during this amazing community program - *Winter of Code*."
+toc: true
+toc_sticky: true
+toc_label: "Contents"
+
+categories:
+  - woc
+
+tags:
+  - Winter of Code
+  - Developers
+  - Developer Student Clubs
+  - DSC NSEC
+  - DSC IEM
+  - NIT Rourkela
+
+
+og_image: /assets/images/WoC2020logo.jpg
+header:
+  teaser: "/assets/images/WoC2020logo.jpg"
+  overlay_image: /assets/images/WoC2020logo.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Image credit: [**Google Images**](https://winterofcode.com/) on [**Instagram**](https://www.instagram.com/winterofcode/)"
+  actions:
+    - label: "View Repository on Github"
+      url: "https://github.com/khanfarhan10/TextSentimentAnalysis"
+author: Ankita_Sareen
+use_math: true
+---
+## Part of the Journey is the end unless its Open Source!(copied XD)
+This officially marks the end of the coding period for WoC 2020. I enjoyed every bit of it. This was a life-changing experience for me and now I observe and interpret everything from a different perspective altogether. I have grown into a better developer and a person since WoC. I have kinda learnt the importance og blogging and collaborating using github.I would like to thank all my mentors and my team members for their immense support and mentorship. 
+Now, regarding work I will be sharing my progress with the project. The official repository of my sub-org can be found [here]url: https://github.com/khanfarhan10/TextSentimentAnalysis
+
+## What all did I implement this week?
+With the objective of improving the accuracy and the performance of the model,I worked on some other models also. However since those were deep learning models, somehow it wasnt a good choice to go ahead with those models reducing the run time of the project. Further I also worked on writing python scripts for the model and working on *flask model* for it to be further deployed on *heroku*.I also worked on the issue of making a feature of **uploading zipfile** of
+datasets for sentiment prediction with a special feature of being able to download the predictions.
+
+## Did you get stuck anywhere?
+These problems that we come across while implementing and developing new things somehow make us a better developer. Similarly,I also faced various problems while making zip file upload feature and writing proper python scripts which somehow help me learn the proper procedure and format and also help me learn the usage of vatious modules.
