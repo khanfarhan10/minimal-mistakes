@@ -39,3 +39,8 @@ datasets for sentiment prediction with a special feature of being able to downlo
 
 ## Did you get stuck anywhere?
 These problems that we come across while implementing and developing new things somehow make us a better developer. Similarly,I also faced various problems while making zip file upload feature and writing proper python scripts which somehow help me learn the proper procedure and format and also help me learn the usage of vatious modules.
+
+## Acknowledgements
+I had an enriching and exciting winter of 2020, working on this project under the Winter of Code program. I was glad to be mentored by Farhan (thanks for going through all my PRs!) and Tanishtha (who helped us with her vast knowledge in and around NLP). I express my sincere thanks to all my peers working as part of WoC.
+
+Woc was a warm and unforgettable experience for me. Everytime I talk of Open Source, TextSentiment Analysis will be remembered fondly.
