@@ -13,7 +13,7 @@ header:
   actions:
     - label: "View Gallery"
       url: "/gallery/"
-layout: archive
+layout: single
 author_profile: true
 last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
