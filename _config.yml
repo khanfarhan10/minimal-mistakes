@@ -12,7 +12,7 @@
 
 theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "mint" # "dark" # "neon" # "mint" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "neon" # "mint" # "dark" # "neon" # "mint" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en-US"
@@ -98,6 +98,9 @@ author:
   location: "Kolkata, India."
   email:
   links:
+    - label: "Google Scholar"
+      icon: "fas fa-hat-cowboy"
+      url: "https://scholar.google.com/citations?hl=en&user=-HE1HT4AAAAJ"
     - label: "Gmail"
       icon: "fab fa-google"
       url: "mailto:njrfarhandasilva10@gmail.com"
@@ -130,10 +133,11 @@ author:
       url: "https://stackoverflow.com/users/12464709/farhan-khan"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://instagram.com/i.am.the.swagger"
+      url: "https://www.facebook.com/khanfarhanh/"
     - label: "Discord"
       icon: "fab fa-discord"
       url: "https://discord.gg/2xzxCUY"
+
 
       
       
