@@ -7,8 +7,8 @@ toc_label: "All contents"
 categories:
   - courses
 tags:
-  - English
-  - Conference
+  - Deep Learning
+  - Machine Learning
 show_date: false
 last_modified_at: 2019-07-10T08:06:00-05:00
 header:

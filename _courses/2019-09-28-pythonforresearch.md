@@ -1,14 +1,14 @@
 ---
-title: "ICELTS"
-excerpt: "Volunteering Certificate for International Conference of English Learning and Teaching Skills (ICELTS)."
+title: "PH526x: Using Python for Research"
+excerpt: "EDX HarvardX Certification for Python tools for research applications."
 toc: false
 toc_sticky: false
 toc_label: "All contents"
 categories:
   - courses
 tags:
-  - English
-  - Conference
+  - Research
+  - Python
 show_date: false
 last_modified_at: 2019-07-10T08:06:00-05:00
 header:
@@ -22,41 +22,44 @@ header:
 
 use_math: true
 ---
+<img src="/assets/images/certs/Coursera DL52SCRR3SQ2 IBM AI Engineering Specialization.jpg">
+<h3 style="text-align:center">
+    <a href="coursera.org/verify/professional-cert/KV5FHES4KTFN">Credentials Verification</a>
+  </h3>
 
+**Salient Features :**<br/>
+- Learnt About Python for Research
+- Used an in-depth knowledge of Statistical Learning Methods
+- Implement Machine Learning Classification Algorithms such as Decision Trees and Random Forests
 <!--use og_image-->
 
-My Volunteering Certificate for International Conference of English Learning and Teaching Skills (ICELTS).
 
-<img src="/assets/images/certs/Icelts Farhan 18.jpg">
+**Details**<br/><br/>
+‣ [Name of Certification Course : PH526x: Using Python for Research](){: .btn .btn--success}<br/>
+‣ [Issuing Organization : HarvardX](){: .btn .btn--success}<br/>
+‣ [Credential ID : e3b51c5467c645ed99d8a400d4adf17f](){: .btn .btn--success}<br/>
 
-**METADATA**<br/>
-‣ [Name of Certification Course](){: .btn .btn--success}[:](#link){: .btn .btn--info}[Coursera](#link){: .btn .btn--danger}<br/>
-‣ [Issuing Organization](){: .btn .btn--success}[:](#link){: .btn .btn--info}[Coursera](#link){: .btn .btn--danger}<br/>
-‣ [Credential ID](){: .btn .btn--success}[:](#link){: .btn .btn--info}[Coursera](#link){: .btn .btn--danger}<br/>
-{: .notice--warning}
+**Course Structure :**<br/><br/>
 
-**SIMPLE METADATA**<br/>
-‣ Name of Certification Course : [Coursera](#link){: .btn .btn--danger}<br/>
-‣ Issuing Organization : [Coursera](#link){: .btn .btn--danger}<br/>
-‣ Credential ID : [Coursera](#link){: .btn .btn--danger}<br/>
-{: .notice--warning}
+- Python 3 Review
+  - Objects and Methods
+  - Sequence Objects
+  - Manipulating Objects
 
-**Colour Details**<br/>
-‣ Name of Certification Course : [Coursera](#link){: .btn .btn--danger}<br/>
-‣ Issuing Organization : [Coursera](#link){: .btn .btn--success}<br/>
-‣ Credential ID : [Coursera](#link){: .btn .btn--info}<br/>
-{: .notice--warning .align-center style="color:red; font-size: 180%; text-align: center;"}
+- Python Libraries and Concepts Used in Research
+  - Scope Rules and Classes 
+  - NumPy
+  - Matplotlib and Pyplot
+  - Randomness and Time
 
-**Justify Align**<br/>
-‣ Name of Certification Course : [Coursera](#link){: .btn .btn--danger}<br/>
-‣ Issuing Organization : [Coursera](#link){: .btn .btn--success}<br/>
-‣ Credential ID : [Coursera](#link){: .btn .btn--info}<br/>
-{: .notice--warning .text-justify}
+- Case Studies
+  - DNA Translation
+  - Language Processing
+  - Classification
+  - Bird Migration
+  - Social Network Analysis 
 
-**Right Align**<br/>
-‣ Name of Certification Course : [Coursera](#link){: .btn .btn--danger}<br/>
-‣ Issuing Organization : [Coursera](#link){: .btn .btn--success}<br/>
-‣ Credential ID : [Coursera](#link){: .btn .btn--info}<br/>
-{: .notice--warning .text-right}
-
-<!--success https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/#buttons-->
+- Statistical Learning
+  - Regression 
+  - Decision Trees
+  - Random Forest
