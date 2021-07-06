@@ -12,7 +12,7 @@ tags:
 show_date: false
 last_modified_at: 2019-07-10T08:06:00-05:00
 header:
-  teaser: "/assets/images/certs/Icelts Farhan 18.jpg"
+  teaser: "/assets/images/certs/HarvardX PH526x Certificate _ edX12.jpg"
   #overlay_image: /assets/images/certs/Icelts Farhan 18.jpg
   #overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -22,9 +22,9 @@ header:
 
 use_math: true
 ---
-<img src="/assets/images/certs/Coursera DL52SCRR3SQ2 IBM AI Engineering Specialization.jpg">
+<img src="/assets/images/certs/HarvardX PH526x Certificate _ edX12.jpg">
 <h3 style="text-align:center">
-    <a href="coursera.org/verify/professional-cert/KV5FHES4KTFN">Credentials Verification</a>
+    <a href="https://courses.edx.org/certificates/e3b51c5467c645ed99d8a400d4adf17f">Credentials Verification</a>
   </h3>
 
 **Salient Features :**<br/>
