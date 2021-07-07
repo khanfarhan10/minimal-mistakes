@@ -10,7 +10,7 @@ tags:
   - Research
   - Python
 show_date: false
-last_modified_at: 2019-07-10T08:06:00-05:00
+last_modified_at: 2021-07-07T09:06:00-05:00
 header:
   teaser: "/assets/images/certs/HarvardX PH526x Certificate _ edX12.jpg"
   #overlay_image: /assets/images/certs/Icelts Farhan 18.jpg

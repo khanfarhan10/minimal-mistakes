@@ -10,7 +10,7 @@ tags:
   - Deep Learning
   - Machine Learning
 show_date: false
-last_modified_at: 2019-07-10T08:06:00-05:00
+last_modified_at: 2021-07-07T10:06:00-05:00
 header:
   teaser: "/assets/images/certs/Coursera DL52SCRR3SQ2 IBM AI Engineering Specialization.jpg"
   #overlay_image: /assets/images/certs/Icelts Farhan 18.jpg
