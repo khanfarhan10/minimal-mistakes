@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Certifications"
-    url: /courses/
   - title: "Research"
     url: /research/
   - title: "Projects"
@@ -10,10 +8,13 @@ main:
     url: /posts/
   - title: "Achievements"
     url: /achievements/
+  - title: "Certifications"
+    url: /courses/
   - title: "Gallery"
     url: /gallery/
   - title: "About"
     url: /aboutme/
+
 # sidebar navigation for DSDA
 DSDA_docs:
   - title: "Code on Github"
