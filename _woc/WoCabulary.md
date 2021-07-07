@@ -20,9 +20,9 @@ tags:
 
 
 last_modified_at: 2020-12-20T08:06:00-05:00
-og_image: /assets/images/overlay-vamsi.jpg
+og_image: /assets/images/overlay-vamsi.jpeg
 header:
-  teaser: "/assets/images/overlay-vamsi.jpg"
+  teaser: /assets/images/overlay-vamsi.jpeg
   overlay_image: /assets/images/overlay-vamsi.jpeg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Image credit: [**Winter of Code**](https://medium.com/@Ben_Obe/introduction-to-nlp-transformers-and-spacy-8ac9539f3bc1)"
