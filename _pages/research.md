@@ -7,13 +7,11 @@ excerpt: "Research Works in Data Science Machine Learning Artificial Intelligenc
 tagline: |
   Published in Emminent Journals
   <br>
-  Here are some of my Research Works :
-  <br>
-  **Progress in Artificial Intelligence (PRAI - Springer Nature)**
+  **CRC Press | Taylor and Francis (Routledge)**
   <br>
   **International Journal of Scientific & Technology Research**
   <br>
-  **Taylor and Francis (CRC press)**
+  **IEEE Xplore**
   <br>
   Fields of Research :
   <br>
@@ -26,12 +24,12 @@ tagline: |
   Top Research Works : 
 description: "Research Works in Data Science Machine Learning Artificial Intelligence"
 header:
-  overlay_image: /assets/images/Research_Header.jpg
-  overlay_filter: 0.6 # same as adding an opacity of 0.5 to a black background
+  overlay_image: /assets/images/Research_Header.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/JWiMShWiF14)"
   actions:
     - label: "Covid DeepNet"
-      url: "https://unsplash.com"
+      url: "http://khanfarhan10.github.io/research/COVIDDEEPNET/"
     - label: "Covid Analytics"
       url: "https://unsplash.com"
     - label: "Dimensionality Reduction"
@@ -39,6 +37,7 @@ header:
 ---
 <!--Welcome to my research page!-->
 ## Featured Research Articles :
+Here are some of my Research Works :
 <div class="grid__wrapper">
   {% assign collection = 'research' %}
   {% assign posts = site[collection] | reverse %}
