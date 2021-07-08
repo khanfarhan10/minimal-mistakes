@@ -5,14 +5,14 @@ title: "Research"
 author_profile: true
 excerpt: "Research Works in Data Science Machine Learning Artificial Intelligence"
 tagline: |
-  Published in Emminent Journals
+  Published in Emminent Journals :
   <br>
   **CRC Press | Taylor and Francis (Routledge)**
   <br>
   **International Journal of Scientific & Technology Research**
   <br>
   **IEEE Xplore**
-  <br>
+  <br><br>
   Fields of Research :
   <br>
   **Data Science** | **Machine Learning** 
@@ -20,20 +20,23 @@ tagline: |
   **Artificial Intelligence** | **Computer Vision** 
   <br>
   **Electrical Engineering** | **Neural Networks** 
-  <br>
+  <br><br>
   Top Research Works : 
 description: "Research Works in Data Science Machine Learning Artificial Intelligence"
 header:
   overlay_image: /assets/images/Research_Header.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.8 # same as adding an opacity of 0.5 to a black background
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com/photos/JWiMShWiF14)"
   actions:
-    - label: "Covid DeepNet"
-      url: "http://khanfarhan10.github.io/research/COVIDDEEPNET/"
-    - label: "Covid Analytics"
-      url: "https://unsplash.com"
     - label: "Dimensionality Reduction"
-      url: "https://unsplash.com"
+      url: "/research/Data-Science/"
+    - label: "Wind Analysis"
+      url: "/research/Wind_Analysis/"
+    - label: "Covid DeepNet"
+      url: "/research/COVIDDEEPNET/"
+    - label: "Covid Analytics"
+      url: "/research/covid_analysis/"
+
 ---
 <!--Welcome to my research page!-->
 ## Featured Research Articles :

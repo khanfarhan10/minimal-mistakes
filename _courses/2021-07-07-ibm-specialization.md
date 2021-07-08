@@ -24,7 +24,7 @@ use_math: true
 ---
 <img src="/assets/images/certs/Coursera DL52SCRR3SQ2 IBM AI Engineering Specialization.jpg">
 <h3 style="text-align:center">
-    <a href="coursera.org/verify/professional-cert/KV5FHES4KTFN">Credentials Verification</a>
+    <a href="https://coursera.org/verify/professional-cert/KV5FHES4KTFN">Credentials Verification</a>
   </h3>
 
 **Salient Features :**<br/>

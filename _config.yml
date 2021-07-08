@@ -16,10 +16,10 @@ minimal_mistakes_skin: "neon" # "mint" # "dark" # "neon" # "mint" #"default" # "
 
 # Site Settings
 locale: "en-US"
-title: "Farhan Khan"
+title: "Farhan Hai Khan"
 title_separator: "|"
 subtitle: "Data Science Portfolio" # site tagline that appears below site title in masthead
-name: "Farhan Khan"
+name: "Farhan Hai Khan"
 description: "Data is my canvas and Machine Learning is my painting."
 url: "https://khanfarhan10.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -92,7 +92,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Farhan Khan"
+  name: "Farhan Hai Khan"
   avatar: "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "**Data** is my **Canvas** and **Machine Learning** is my **Painting**."
   location: "Kolkata, India."

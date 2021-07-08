@@ -26,7 +26,7 @@ header:
   actions:
     - label: "View Code on Github"
       url: "https://github.com/khanfarhan10/CovidDeepNet"
-
+    
 use_math: true
 ---
 
