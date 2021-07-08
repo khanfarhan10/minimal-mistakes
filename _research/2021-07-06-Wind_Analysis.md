@@ -1,6 +1,6 @@
 ---
-title: "COVID-19: Detailed Analytics & Predictive Modelling using Deep Learning"
-excerpt: "Latest Coronavirus Trends Analytics. Published in International Journal of Scientific Research in Computer Science Engineering and Information Technology."
+title: "Wind Energy : A Practical Power Analysis Approach"
+excerpt: "Wind Turbine Power Analysis using Machine Learning. Published in IEEE Xplore."
 toc: true
 toc_sticky: true
 
@@ -8,12 +8,11 @@ categories:
   - research
 
 tags:
-  - COVID-19
-  - Data Analytics
-  - Coronavirus
-  - Python
-  - Deep Learning
-  - Mathematical Modelling
+  - Wind Power
+  - Data Analysis
+  - Curve Fitting
+  - Machine Learning
+  - Practical Wind Turbine Power
 
 last_modified_at: 2021-01-29T08:06:00-05:00
 
@@ -23,6 +22,8 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: Authors Notebook"
   actions:
+    - label: "View Code on GitHub"
+      url: "https://ijsrst.com/IJSRST207517"
     - label: "View Publication on IJRSTR"
       url: "https://ijsrst.com/IJSRST207517"
     - label: "View Publication on ResearchGate"
