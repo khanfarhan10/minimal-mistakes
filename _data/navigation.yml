@@ -4,13 +4,13 @@ main:
     url: /research/
   - title: "Projects"
     url: /projects/
-  - title: "Posts"
-    url: /posts/
   - title: "Achievements"
     url: /achievements/
-  - title: "Certifications"
+  - title: "Courses"
     url: /courses/
-  - title: "Gallery"
+  - title: "Feed"
+    url: /posts/
+  - title: "Photos"
     url: /gallery/
   - title: "About"
     url: /aboutme/

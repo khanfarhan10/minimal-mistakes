@@ -23,11 +23,11 @@ header:
   caption: "Photo credit: Authors Notebook"
   actions:
     - label: "View Code on GitHub"
-      url: "https://ijsrst.com/IJSRST207517"
-    - label: "View Publication on IJRSTR"
-      url: "https://ijsrst.com/IJSRST207517"
+      url: "https://github.com/khanfarhan10/wind_analysis"
+    - label: "View Publication on IEEE Xplore"
+      url: "https://ieeexplore.ieee.org/document/9386754"
     - label: "View Publication on ResearchGate"
-      url: "https://www.researchgate.net/publication/344388508_COVID-19_Detailed_Analytics_Predictive_Modelling_using_Deep_Learning"
+      url: "https://www.researchgate.net/publication/350503721_Wind_Energy_A_Practical_Power_Analysis_Approach"
 
 use_math: true
 mathjax: true
