@@ -19,7 +19,7 @@ og_image: /assets/images/CertGen.jpg
 header:
   teaser: "/assets/images/CertGen.jpg"
   overlay_image: /assets/images/CertGen.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.75 # same as adding an opacity of 0.5 to a black background
   caption: "Image Source : Author"
   actions:
     - label: "View Code on Github"
@@ -37,9 +37,11 @@ use_math: true
 Mass Certificate Generation from a DOCX Template right in your browser.
 Powered by Python, Flask. Hosted on the Heroku Platform.
 
-Website : https://certgenapp.herokuapp.com/
-GitHub : https://github.com/khanfarhan10/certgen
-YouTube Tutorial : https://youtu.be/04BO_5uWH9o
+### Links
+
+- Website : [https://certgenapp.herokuapp.com/](https://certgenapp.herokuapp.com/)
+- GitHub : [https://github.com/khanfarhan10/certgen](https://github.com/khanfarhan10/certgen)
+- YouTube Tutorial : [https://youtu.be/04BO_5uWH9o](https://youtu.be/04BO_5uWH9o)
 
 ### Video Tutorial
 

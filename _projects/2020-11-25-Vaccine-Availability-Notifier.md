@@ -1,6 +1,6 @@
 ---
-title: "Dual Axis Solar Tracker"
-excerpt: "The dual axis solar tracker is an Arduino project which shifts the position of a solar panel to the maximum intensity of sunlight thereby utilising optimum solar power . When implemented on a large scale, it is highly energy efficient."
+title: "Vaccine Availability Notifier"
+excerpt: "Checks for Vaccine Availability at your district and notifies you using E-mail every 10 mins."
 toc: true
 toc_sticky: true
 toc_label: "Contents"
@@ -9,55 +9,99 @@ categories:
   - projects
 
 tags:
-  - Solar Tracker
-  - BioMimicry
-  - Efficient Technology
-  - Clean Energy
-  - Solar Energy
-  - Arduino
-  - LDR Sensor Technologies
+  - COVID-19
+  - Vaccination
+  - Healthcare
 
 last_modified_at: 2020-11-01T08:06:00-05:00
-og_image: /assets/images/Arduino_1.jpg
+og_image: /assets/images/VaccineAvail.png
 header:
-  teaser: "/assets/images/Arduino_1.jpg"
-  overlay_image: /assets/images/Arduino_1.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Image credit: [**Harrison Broadbent**](https://unsplash.com/@harrisonbroadbent) on [**Unsplash**](https://unsplash.com/photos/19YCOjHosDk)"
+  teaser: /assets/images/VaccineAvail.png
+  overlay_image: /assets/images/VaccineAvail.png
+  overlay_filter: 0.75 # same as adding an opacity of 0.5 to a black background
+  caption: "Image Source : Author"
   actions:
+    - label: "View Website"
+      url: "https://vaccineavail.herokuapp.com/"
     - label: "View Code on Github"
-      url: "https://github.com/khanfarhan10/DualAxisSolarTracker"
+      url: "https://github.com/khanfarhan10/VaccineAvailabilityNotifier"
 
 use_math: true
 ---
-### Brief Summary of Project Working Prototype
 
-Solar panels have been used increasingly in recent years to convert solar energy to electrical energy. The solar panel can be used either as a stand-alone system or as a large system that is connected to the electricity grid. The earth receives 84 Terawatts of power and our world consumes about 12 Terawatts of power every day. We are trying to extract more energy from the sun using solar panels. In order to maximize the conversion from solar to electrical energy, the solar panels have to be positioned perpendicular to the sun. Thus the tracking of the sun’s location and positioning of the solar panel are important. The goal of this project is to design an automatic tracking system, which can locate the position of the sun. The tracking system will align the solar panel so that it is positioned perpendicular to the sun for maximum energy conversion at all times. Photo-resistors will be used as sensors in this system. The system will consist of light sensing devices, microcontroller, gear motor system, and a solar panel. LDRs shall be used as the main light sensors. Two servo motors are to be fixed to the structure that holds the solar panel. The program for Arduino is to be uploaded to the microcontroller. LDRs sense the amount of sunlight falling on them. Four LDRs are divided into top, bottom, left and right. For east – west tracking, the analog values from two top LDRs and two bottom LDRs are compared and if the top set of LDRs receive more light, the vertical servo will move in that direction. If the bottom LDRs receive more light, the servo moves in that direction.
+<p align="center">
+<a href="LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/khanfarhan10/SmartGoogleForms?style=for-the-badge"></a>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg">     <img src="https://forthebadge.com/images/badges/made-with-python.svg">    <img src="https://forthebadge.com/images/badges/open-source.svg">
+</p>
 
+# [Vaccine Availability Notifier](https://vaccineavail.herokuapp.com/)
 
-For angular deflection of the solar panel, the analog values from two left LDRs and two right LDRs are compared. If the left set of LDRs receive more light than the right set, the horizontal servo will move in that direction. If the right set of LDRs receive more light, the servo moves in that direction. Our system will provide an output with up to 40% more energy than the solar panels without tracking systems. The generation of power without using fossil fuels is the biggest challenge for the next half of this century. The idea of converting solar energy into electrical energy using photovoltaic panels holds its place in the front row as compared to other renewable sources. However the continuous change in the relative angle of the sun with reference to the earth reduces the watts delivered by the solar panel. In this context solar tracking system is the best alternative to increase the efficiency of the photovoltaic panel. Solar trackers move the payload towards the sun throughout the day.
+### Project Description
 
+Checks for Vaccine Availability at your district and notifies you using E-mail every 10 mins.  
+Kindly read & accept the terms and conditions to register for updates.  
+Do subscribe to our website and star our GitHub repository!
+We are open for improvements! Feel free to open a Pull Request.
 
-### Future Prospects
+### District Codes
 
-As already mentioned earlier, a dual-axis solar tracker is much more efficient than a normal solar panel fixed at the same position all throughout the day since it can change its orientation depending upon the direction of the incident sunlight. The idea of a solar tracker can be well implemented in a country like India situated in the tropical region and thereby receiving most of the sunlight. Being able to rotate and change its position a solar tracker can provide maximum efficiency that can be achieved by a solar panel. We can overcome the problems of the thermal power through solar energy which is freely available at least for the next one million years. Therefore if we can properly utilize solar energy then the capability of generation centers might shoot up to such high levels that energy consumption in terms of electricity might get cheaper. However, maintenance is a crucial factor with respect to the installation of solar panels but still it is a way better alternative than burning our non-renewable sources of energy.
+Find your District ID [Here](https://github.com/khanfarhan10/VaccineAvailabilityNotifier/blob/main/district_data.csv).
 
-### PowerPoint Submission
+### Developer Credits
 
-You can view or <a href="https://github.com/khanfarhan10/DualAxisSolarTracker/blob/master/Dual%20Axis%20Solar%20Tracker%20-%20Submission%20Compressed.pptx" download>download this ppt</a>.
+- [_Swayamshree Mohanty_](https://github.com/Swayms-stack)
+- [_Farhan Hai Khan_](https://github.com/khanfarhan10)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTu7p0tt_GPxzyynqRnXLPsrb-VHfcxLq9lAJUudkU6dw7Q0T86wFE6TJwiOUEwGg/embed?start=true&loop=true&delayms=3000" frameborder="0" width="640" height="375" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+### Steps for Local Installation
 
-<!--https://drive.google.com/drive/u/0/folders/1ARFyd7IyB1JBUPYUtg912D59EDsh4LqQ-->
+Setting up your **Virtual Environment** :
 
-### Complete Submitted Report
+```
+virtualenv AugEnv
+AugEnv\Scripts\activate
+conda.bat deactivate
+```
 
-You can view or <a href="https://github.com/khanfarhan10/DualAxisSolarTracker/blob/master/Mechanical%20Project%20Solar%20Tracker%20Arduino%20.pdf" download>download this article</a>.
+Install **Requirements** :
 
-<iframe src="https://docs.google.com/viewer?srcid=1mTvfl8xbACls9sAvqIkXhu5YLJE8khSc&pid=explorer&efh=false&a=v&chrome=false&embedded=true" style="width:100%; height:900px;" frameborder="0" allowfullscreen></iframe>
+```
+pip install -r requirements.txt
+```
 
-<!--
-https://drive.google.com/file/d/1JOVg2vlh7VMPx-X5GS4gC8UvLHzjIm6L/view?usp=sharing
-https://drive.google.com/file/d/1mTvfl8xbACls9sAvqIkXhu5YLJE8khSc/view?usp=sharing
--->
+Run **Application** :
 
+```
+python app.py
+```
+
+### Credits
+
+The Starter Code for this Project is Borrowed from
+
+- [Covid Vaccination by Nishant](https://github.com/nishantbuildsproducts/covid-vaccination)
+- [Cowin Vaccination Slot Availability by Bhavesh Bhatt](https://github.com/bhattbhavesh91/cowin-vaccination-slot-availability)
+
+### TERMS & CONDITIONS
+
+- Please read these terms and conditions carefully before using Our Service.
+
+> This website is dependent on the CoWin API. Therefore, the developers shall not be responsible for misinformation of any kind.
+
+- Severability  
+  If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
+
+- Governing Law  
+  The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
+
+- Waiver  
+  Except as provided herein, the failure to exercise a right or to require performance of an obligation under this Terms shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall be the waiver of a breach constitute a waiver of any subsequent breach.
+
+- Changes to These Terms and Conditions  
+  We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
+  By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
+
+- Contact Us  
+  Should you have any questions about these Terms and Conditions.
+  You can contact us by emailing us :
+- njrfarhandasilva10@gmail.com
+- swaymsdennings@gmail.com
