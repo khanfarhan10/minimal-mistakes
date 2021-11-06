@@ -1,11 +1,11 @@
 ---
 title: "High Dimensionality Dataset Reduction Methodologies in Applied Machine Learning"
 excerpt: "**Data Science and Data Analytics: Opportunities and Challenges 2020** - Taylor and Francis Book Chapter Publication (Routledge) CRC Press"
-author_profile: false
-layout: single
+author_profile: true
+layout: splash
 classes: wide
 toc: true
-toc_sticky: true
+toc_sticky: false
 toc_label: "Table of Contents"
 
 categories:
