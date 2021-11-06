@@ -31,7 +31,7 @@ header:
       url: "https://www.routledge.com/Data-Science-and-Data-Analytics-Opportunities-and-Challenges/Tyagi/p/book/9780367628826"
     - label: "View Code on Github"
       url: "https://github.com/khanfarhan10/DIMENSIONALITY_REDUCTION"
-og_image: "/assets/images/DIM_REDN/DIM_RED_VIZ.png"
+og_image: /assets/images/DIM_REDN/DIM_RED_VIZ.png
 use_math: true
 mathjax: true
 ---
