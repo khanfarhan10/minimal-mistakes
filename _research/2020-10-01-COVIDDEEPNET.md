@@ -26,8 +26,11 @@ header:
   actions:
     - label: "View Code on Github"
       url: "https://github.com/khanfarhan10/CovidDeepNet"
+    - label: "View Publication on Springer"
+      url: "https://ieeexplore.ieee.org/document/9386754"
     
 use_math: true
+mathjax: true
 ---
 
 ```python
@@ -37,6 +40,19 @@ from AI import Covid_Predictions
 # What's inside this COVID-DeepNet :
 
 This blog is a detailed, yet lucid overview of the paper, **"COVID-DeepNet: Deep Convolutional Neural Network Architecture Designed for Early Prognosis of COVID-19 using Post-Anterior View of Chest X-Rays"**.
+
+# Research Paper
+
+The research paper has been published and can be cited as:
+
+```
+Ghosh, D. et al. (2022). COVID-DeepNet: Deep Convolutional Neural Network  \\
+Architecture Designed for Early Prognosis of COVID-19 Using Post-anterior  \\
+View of Chest X-Rays. In: Mandal, L., Tavares, J.M.R.S., Balas, V.E. (eds)  \\
+Proceedings of International Conference on Computational Intelligence,  \\
+Data Science and Cloud Computing. Algorithms for Intelligent Systems.  \\
+Springer, Singapore. https://doi.org/10.1007/978-981-19-1657-1_5  \\
+```
 
 # About the paper:
 
