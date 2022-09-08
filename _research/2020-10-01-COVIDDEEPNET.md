@@ -3,6 +3,7 @@ title: "COVID-DeepNet"
 excerpt: "Early Prognosis of COVID-19 using Post-Anterior View of Chest X-Rays with Deep Convolutional Neural Networks"
 toc: true
 toc_sticky: true
+toc_label: "Blog Contents"
 
 categories:
   - research
@@ -17,6 +18,7 @@ tags:
   - Neural Networks
 
 last_modified_at: 2020-10-01T08:06:00-05:00
+og_image: /assets/images/COVIDDEEPNET_Header.png
 
 header:
   teaser: "/assets/images/COVIDDEEPNET_Header.png"
@@ -27,8 +29,8 @@ header:
     - label: "View Code on Github"
       url: "https://github.com/khanfarhan10/CovidDeepNet"
     - label: "View Publication on Springer"
-      url: "https://ieeexplore.ieee.org/document/9386754"
-    
+      url: "https://link.springer.com/chapter/10.1007/978-981-19-1657-1_5"
+author: Soumyadip Sarkar
 use_math: true
 mathjax: true
 ---

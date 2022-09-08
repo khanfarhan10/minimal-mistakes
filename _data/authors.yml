@@ -58,3 +58,21 @@ Sai Vamsi Alisetti:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Vamsi995"
+
+Soumyadip Sarkar:
+  name: "Soumyadip Sarkar"
+  bio: "AI Researcher"
+  avatar: "/assets/images/Soumyadip.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://soumya997.notion.site/soumya997/Soumyadip-Sarkar-16685e761b37458bac0d8ed9a820dee2"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:soumya997.sarkar@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/soumyadip-sarkar/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/soumya997"
